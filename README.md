@@ -1,1 +1,3 @@
 # .github
+
+ConMed AS Group
